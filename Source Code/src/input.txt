@@ -1,0 +1,24 @@
+Keyword List Start
+Keyword1	3
+Keyword2	1
+Keyword3	1
+Keyword4	1
+Keyword5	1
+Keyword1	2
+Keyword3	2
+Keyword6	2
+Keyword7	3
+Keyword1	1
+Keyword2	3
+Keyword List End
+Queries Start
+First Keyword1
+First Keyword7
+List Keyword1
+List Keyword7
+Keywords 1
+Keywords 2
+First Keyword9
+List Keyword9
+Keywords 5
+Queries End
